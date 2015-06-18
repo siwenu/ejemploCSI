@@ -27,6 +27,7 @@ public class MyApplication extends Application implements ClickListener {
 	UsuarioForm formUser;
 	Button btReset;
 	Button btGuardar;
+	String Vicens = "Loser!";
 
     @Override
     public void init() {
